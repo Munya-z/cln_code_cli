@@ -6,7 +6,8 @@ ___
 
 ## Installation
 
- Download the windows binary *cln_code.exe* file.
+ Download the windows binary *cln_code.exe* file from the `built_app` directory .
+ Or run: `cargo build` to build your own app instance
 
 ###### If you have rustup installed on your PC
 
