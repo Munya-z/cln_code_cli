@@ -30,7 +30,7 @@ ___
 
  __Before__ 
 
-![before Image](cln_code_media/before_cln_code.jpg)
+![before Image](media/before_cln_code.jpg)
 
 
 
@@ -38,7 +38,7 @@ __After__
 
 
 
-![After edit image](cln_code_media/after_cln_code.jpg)
+![After edit image](media/after_cln_code.jpg)
 
 ## Usage
 
